@@ -48,7 +48,7 @@ read a body of text n lines at a time from your terminal
 > source.txt:4 ~>
 `everyone was tired so the pope proposed a truce`
 
-`p`
+`z`
 
 > (21/21) Finished reading.\
 > Paraphrased text added to source-pphr.txt.
